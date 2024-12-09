@@ -1,2 +1,2 @@
-FROM public.ecr.aws/docker/library/alpine:3.20.0@sha256:77726ef6b57ddf65bb551896826ec38bc3e53f75cdde31354fbffb4f25238ebd
+FROM public.ecr.aws/docker/library/alpine:3.21.0@sha256:21dc6063fd678b478f57c0e13f47560d0ea4eeba26dfc947b2a4f81f686b9f45
 RUN echo "hi"
